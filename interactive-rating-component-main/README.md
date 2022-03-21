@@ -19,8 +19,8 @@ Users should be able to:
 ### Links
 <hr>
 
-- [Hosted Netlify URL]()
-- [Code]()
+- [Hosted Netlify URL](https://ratingcard.netlify.app/)
+- [Code](https://github.com/thevinayysharma/frontend_mentors/edit/interactive-rating-component/)
  
 ### Stuff Learned
 <hr>
