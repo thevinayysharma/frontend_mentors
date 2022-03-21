@@ -13,7 +13,7 @@ Users should be able to:
 
 ### Overview
 <hr>
-![rating card image](https://i.ibb.co/G2VkpC9/image-rating.png)
+<img src="https://i.ibb.co/G2VkpC9/image-rating.png" />
 
 
 ### Links
