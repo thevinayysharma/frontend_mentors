@@ -28,7 +28,6 @@ Users should be able to:
 ### Stuff Learned
 <hr>
 
-- I have prepare a no  
 - Keep base clases names as short as possible. No-one want to drag a large name using BEM convention to the end of file
 - Timebox programming to code fast.
 - Use borders initially to clearly see boundaries.
